@@ -1,0 +1,12 @@
+{
+    "schema_version": "1.0",
+    "name": "mx_stop_spammers",
+    "label": "MX Stop Spammers",
+    "version": "1.1.0",
+    "types": ["module", "extension"],
+    "paths": {
+        "system": [
+            "system/expressionengine/third_party/mx_stop_spammers"
+        ]
+    }
+}
